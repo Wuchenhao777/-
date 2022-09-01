@@ -1,0 +1,40 @@
+<html><head></head><body style="
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    padding: 30px;
+"><touxianglan style="
+    height: 160px;
+    width: 100%;
+    background-color: #03a9f4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+">
+    <img src="寒英素雪改.png" alt="头像" width="120" heght="100">
+</touxianglan>
+    
+    
+<zhuneirong style="
+    padding: 30px;
+    width: 700px;
+    min-height: 70vh;
+    letter-spacing: 0px;
+    line-height: 1.7;
+    display: block;
+">
+    <p class="hezi">我乃无极帝国长公主顾清寒</p>
+    <p class="hezi">夏虫,不可语冰</p>
+    <p class="hezi">风劲角弓鸣,弦发鸟兽散</p>
+    <p>冰封九州,雪葬仇敌</p>
+    <p>混元寒冰,朔风凛冽</p>
+    <p>此番,定还公道于天下</p>
+</zhuneirong>
+<dibulan>
+    <p>版权</p>
+    <p>备案号</p>
+</dibulan>
+
+
+</body></html>
